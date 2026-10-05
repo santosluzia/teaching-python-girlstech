@@ -35,3 +35,11 @@ Desenvolver uma base sólida em Python por meio da **aprendizagem prática**, es
 - Ferramentas de IA para apoio à programação (uso orientado)
 
 O repositório contém **materiais de estudo, exemplos de código, exercícios, o e-book de apoio e projetos desenvolvidos ao longo da formação**.
+---
+<img width="338" height="340" alt="image" src="https://github.com/user-attachments/assets/aa54f1e1-812f-4cd4-8506-5c86e77fefb7" />
+
+---
+<img width="335" height="239" alt="image" src="https://github.com/user-attachments/assets/9b39e72c-5019-4207-8f98-b8c12c580300" />
+
+
+
