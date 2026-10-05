@@ -36,10 +36,13 @@ Desenvolver uma base sólida em Python por meio da **aprendizagem prática**, es
 
 O repositório contém **materiais de estudo, exemplos de código, exercícios, o e-book de apoio e projetos desenvolvidos ao longo da formação**.
 ---
-<img width="338" height="340" alt="image" src="https://github.com/user-attachments/assets/aa54f1e1-812f-4cd4-8506-5c86e77fefb7" />
+<img width="1280" height="673" alt="1790452129176" src="https://github.com/user-attachments/assets/e7938b2c-5b60-45a7-b784-fc689f500a8a" />
 
----
-<img width="335" height="239" alt="image" src="https://github.com/user-attachments/assets/9b39e72c-5019-4207-8f98-b8c12c580300" />
+<br/>
+<br/>
+<br/>
+<img width="1280" height="570" alt="1791056078976" src="https://github.com/user-attachments/assets/c606c0d7-cf3f-4ccf-b747-997329452ec4" />
+
 
 
 
